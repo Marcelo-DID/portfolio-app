@@ -28,5 +28,9 @@ export class KnowledgeComponent {
       src: 'assets/icons/knowledge/angularicon.svg',
       alt: 'Angular Knowledge Icon'
     },
+    {
+      src: 'assets/icons/knowledge/scss.svg',
+      alt: 'SCSS Knowledge Icon'
+    },
   ])
 }
